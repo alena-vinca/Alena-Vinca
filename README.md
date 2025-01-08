@@ -11,6 +11,7 @@ My journey as a Cybersecurity student has led me to develop a passion for threat
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Penetration Testing                           | Windows 7 Penetration Test |
 | Transfer Executables to a Web Server          | <a href="https://github.com/alena-vinca/Transfer-Executables-Lab/tree/main">Transfer Executables Lab</a>   |
 | Use Netcat to Transfer SBD                    | <a href="https://github.com/alena-vinca/File-Transfer-Using-Netcat/tree/main">Transfer Using Netcat</a> |
 | Testing SBD Encryption                        | <a href="https://github.com/alena-vinca/SBD-Encryption-Project/tree/main">SBD Encryption Project</a>     |
