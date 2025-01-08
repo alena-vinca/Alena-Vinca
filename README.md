@@ -70,8 +70,8 @@ My journey as a Cybersecurity student has led me to develop a passion for threat
 </div>
 
 ## Projects
-- Windows 7 Penetration Test
-- SBD Encryption Project
-- File Transfer Using Netcat
-- Transfer Executables Lab
-- TCPDump Project
+- <a href="https://github.com/alena-vinca/Windows-7-Penetration-Test/tree/main">Windows 7 Penetration Test</a>
+- <a href="https://github.com/alena-vinca/Transfer-Executables-Lab/tree/main">Transfer Executables Lab</a>
+- <a href="https://github.com/alena-vinca/File-Transfer-Using-Netcat/tree/main">Transfer Using Netcat</a>
+- <a href="https://github.com/alena-vinca/SBD-Encryption-Project/tree/main">SBD Encryption Project</a>
+- <a href="https://github.com/alena-vinca/TCPDump-Project/tree/main">TCPDump Project</a>
