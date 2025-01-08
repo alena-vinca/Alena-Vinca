@@ -12,7 +12,7 @@ My journey as a Cybersecurity student has led me to develop a passion for threat
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Transfer Executables to a Web Server          | <a href="https://github.com/alena-vinca/Transfer-Executables-Lab/tree/main">Transfer Executables Lab</a>   |
-| Use Netcat to Transfer SBD                    | File Transfer Using Netcat |
+| Use Netcat to Transfer SBD                    | <a href="https://github.com/alena-vinca/File-Transfer-Using-NetcatFile">Transfer Using Netcat</a> |
 | Testing SBD Encryption                        | SBD Encryption Project     |
 | Listening for Passwords using TCPDump         | TCPDump Project            |
 
