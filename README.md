@@ -75,4 +75,5 @@ My journey as a Cybersecurity student has led me to develop a passion for threat
 - <a href="https://github.com/alena-vinca/File-Transfer-Using-Netcat/tree/main">Transfer Using Netcat</a>
 - <a href="https://github.com/alena-vinca/SBD-Encryption-Project/tree/main">SBD Encryption Project</a>
 - <a href="https://github.com/alena-vinca/TCPDump-Project/tree/main">TCPDump Project</a>
-- <a href="https://github.com/alena-vinca/Capture-The-Flag-USF/tree/main">Capture The Flag USF</a>
+- <a href="https://github.com/alena-vinca/Capture-The-Flag-USF/tree/main">HTB Capture The Flag USF</a>
+- <a href="https://github.com/alena-vinca/Capture-The-Flag-SMB/blob/main/README.md">HTB Capture The Flag SMB</a>
