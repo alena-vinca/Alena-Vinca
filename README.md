@@ -77,3 +77,6 @@ My journey as a Cybersecurity student has led me to develop a passion for threat
 - <a href="https://github.com/alena-vinca/TCPDump-Project/tree/main">TCPDump Project</a>
 - <a href="https://github.com/alena-vinca/Capture-The-Flag-USF/tree/main">HTB Capture The Flag USF</a>
 - <a href="https://github.com/alena-vinca/Capture-The-Flag-SMB/blob/main/README.md">HTB Capture The Flag SMB</a>
+
+## In-Progress Projects
+- <a href="https://github.com/alena-vinca/ICS-Cybersecurity-Risk/tree/main">ICS Cybersecurity Risk</a>
