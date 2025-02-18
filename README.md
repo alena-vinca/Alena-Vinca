@@ -19,7 +19,8 @@ My journey as a Cybersecurity student has led me to develop a passion for threat
 
 ## 📝 Hack the Box
 
-In the works...
+- <a href="https://github.com/alena-vinca/SOC-analyst/tree/main">SOC Analyst Pathway</a>
+
 
 ## 🛠️ Tools
 
