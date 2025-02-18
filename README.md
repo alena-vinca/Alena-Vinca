@@ -17,6 +17,10 @@ My journey as a Cybersecurity student has led me to develop a passion for threat
 | Testing SBD Encryption                        | <a href="https://github.com/alena-vinca/SBD-Encryption-Project/tree/main">SBD Encryption Project</a>     |
 | Listening for Passwords using TCPDump         | <a href="https://github.com/alena-vinca/TCPDump-Project/tree/main">TCPDump Project</a>            |
 
+## 📝 Hack the Box
+
+In the works...
+
 ## 🛠️ Tools
 
 ### 📡 Network Tools
